@@ -8,6 +8,3 @@
 
 ## Repositorio de la práctica 1:
 [https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1](https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1)
-
-## Documentación del despliegue en railway:
-[https://github.com/SerotDev/sru-tsys-sts4-c4-ta26-14112023/blob/master/C4-TA26_Docu-y-capturas-Railway.pdf](https://github.com/SerotDev/sru-tsys-sts4-c4-ta26-14112023/blob/master/C4-TA26_Docu-y-capturas-Railway.pdf)
